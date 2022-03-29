@@ -29,6 +29,8 @@ plt.show()
 
 print('now some changes have been made from my Air')
 
+print('now added from my Lenovo')
+
 
 
 #define a date and the top 30 tickers of sorted data and write to csv
