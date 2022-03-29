@@ -27,6 +27,7 @@ plt.plot(df_bnd['date'], df_bnd['close'])
 plt.plot(df_spy['date'], df_spy['close'])
 plt.show()
 
+print('now some changes have been made from my Air')
 
 
 
